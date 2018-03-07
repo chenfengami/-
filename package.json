@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.15.4",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.0",
+    "mkdirp": "^0.5.1",
+    "request": "^2.81.0"
+  },
+  "dependencies": {
+    "express": "^4.15.4",
+    "http": "^0.0.0",
+    "mime-db": "^1.30.0"
+  }
+}
